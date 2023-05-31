@@ -64,7 +64,7 @@ const Profile = () => {
             <h2 className="text-3xl font-semibold">Nafis Mahmud Ayon</h2>
             <p className="text-lg ">Web Developer</p>
             <div className="flex gap-2 justify-center items-center py-4">
-                <div className="w-6 h-6"><Facebook /></div>
+                <div className="w-6 h-6"><Facebook className="fill-emerald-500"/></div>
                 <div className="w-6 h-6"><Github /></div>
                 <div className="w-6 h-6"><Linkedin /></div>
                 <div className="w-6 h-6"><Whatsapp /></div>
